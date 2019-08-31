@@ -64,6 +64,7 @@ A brief guide is available in the [Wiki section](https://github.com/alexis-migno
 
 * [FlickrBox](https://github.com/tomquirk/FlickrBox) - A Dropbox-like backup experience for your free 1TB Flickr library!
 * [Album Sorter](https://github.com/Scraft/flickr-album-sorter) - Sort flickr albums into date taken order
+* [album-rsync](https://github.com/phdesign/album-rsync) - Sync local photos with flickr using any rysnc interaction pattern
 
 ## Development
 This project uses pipenv to create a virtualenv for developement and control dependencies. 
